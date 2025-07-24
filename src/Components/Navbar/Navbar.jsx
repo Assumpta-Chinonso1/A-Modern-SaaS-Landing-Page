@@ -7,11 +7,12 @@ const Navbar = () => {
         <div className='max-w-7xl mx-auto px-6 py-4 flex justify-between items-center'>
           <div>
             <a href="#" className='font-semibold hover:text-blue-600 font-mono'>
-                 <FontAwesomeIcon icon={faHouse} className="text-purple-600 text-3xl" />
+                 <FontAwesomeIcon icon={faHouse} className="text-purple-600 text-3xl space-x-1" />
+
                  Real Estate
            </a>
         </div>
-          <ul className='space-x-8 text-gray-500'>
+          <ul className='space-x-3 text-gray-500'>
           <li><a href="#home" className='hover:text-blue-500'>Home</a></li>
 
         </ul>
