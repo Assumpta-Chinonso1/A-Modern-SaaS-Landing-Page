@@ -6,8 +6,9 @@ const Navbar = () => {
     <nav className="bg-white shadow-md fixed w-full z-1 top-0 left-0">
         <div className='max-w-7xl mx-auto px-6 py-4 flex justify-between items-center'>
           <div>
-            <a href="#" className='font-semibold hover:text-blue-600 font-mono'>
-                 <FontAwesomeIcon icon={faHouse} className="text-blue-600 text-3xl space-x-1" />
+            <a href="#" className='font-semibold hover:text-blue-600 font-mono '>
+                 <FontAwesomeIcon icon={faHouse} className="text-blue-400 text-3xl space-x-4" /> 
+                 
 
                  Real Estate
            </a>
