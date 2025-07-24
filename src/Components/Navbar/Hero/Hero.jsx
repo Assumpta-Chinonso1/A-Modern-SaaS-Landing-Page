@@ -13,7 +13,6 @@ const Hero = () => {
             </button>
             <hr className="mt-8 w-30 m-auto border-t-4 border-red-600" />
         </div>
-
     </section>
   )
 }
