@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className='max-w-7xl mx-auto px-6 py-4 flex justify-between items-center'>
           <div>
             <a href="#" className='font-semibold hover:text-blue-600 font-mono'>
-                 <FontAwesomeIcon icon={faHouse} className="text-purple-600 text-3xl space-x-1" />
+                 <FontAwesomeIcon icon={faHouse} className="text-blue-600 text-3xl space-x-1" />
 
                  Real Estate
            </a>
