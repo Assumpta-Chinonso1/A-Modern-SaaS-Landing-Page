@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+
 const Hero = () => {
   return (
     <section className="relative bg-cover bg-center h-screen bg-[url('./assets/RealEstate.png')] flex items-center justify-center text-center bg-blue-500">
@@ -13,7 +15,7 @@ const Hero = () => {
             </button>
             <hr className="mt-8 w-30 m-auto border-t-4 border-red-600" />
         </div>
-        
+
     </section>
   )
 }
