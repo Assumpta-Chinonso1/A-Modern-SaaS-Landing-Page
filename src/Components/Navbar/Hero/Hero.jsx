@@ -9,7 +9,7 @@ const Hero = () => {
             <p className="md-6">Comfort, peaceful, Shortlet, Staycation, etc all in best Agent</p>
             <br />
             <button className="cursor-pointer text-black bg-blue-400 px-6 py-4 rounded-full font-semibold hover:bg-blue-500">
-                Build your Dream Home
+               Build your Dream Home
             </button>
             <hr className="mt-8 w-30 m-auto border-t-4 border-red-600" />
         </div>
