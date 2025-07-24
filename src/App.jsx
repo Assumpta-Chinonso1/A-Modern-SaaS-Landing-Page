@@ -4,7 +4,7 @@ import Hero from './Components/Navbar/Hero/Hero'
 
 const App = () => {
   return (
-    <div>
+    <div className='text-sm md:text-lg'>
         
     <Navbar/>
     <Hero/>
