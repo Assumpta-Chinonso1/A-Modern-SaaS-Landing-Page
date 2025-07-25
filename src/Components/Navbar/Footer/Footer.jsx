@@ -27,6 +27,7 @@ const Footer = () => {
           <p className="text-sm text-gray-300">Phone: +234 800 123 4567</p>
           <p className="text-sm text-gray-300">Address: 123 Estate Road, Abuja, Nigeria</p>
         </div>
+        
       </div>
 
       <div className="mt-8 text-center text-sm text-gray-400">
