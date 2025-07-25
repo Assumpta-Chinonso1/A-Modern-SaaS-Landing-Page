@@ -27,7 +27,7 @@ const ContactForm = () => {
       message: ''
     });
 
-    // Hide confirmation after a few seconds
+    // Hide submission after a few secs
     setTimeout(() => {
       setSubmitted(false);
     }, 4000);
