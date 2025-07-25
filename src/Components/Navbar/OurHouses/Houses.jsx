@@ -50,7 +50,7 @@ const Houses = () => {
               src={house.image}
               alt={house.title}
               className="h-64 w-full object-cover"
-              loading="lazy"
+              //loading="lazy"
             />
 
             <div className="p-6 flex flex-col justify-between h-full">
