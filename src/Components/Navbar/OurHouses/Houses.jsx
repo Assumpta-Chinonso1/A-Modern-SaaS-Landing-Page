@@ -58,7 +58,7 @@ const Houses = () => {
                 <p className="text-gray-500">{house.location}</p>
 
                 <div className="grid grid-cols-3 gap-4 text-sm text-gray-600 mt-4">
-                  <p><span className="font-semibold">🛏 Bedrooms:</span> {house.bedrooms}</p>
+                  <p><span className="font-semibold">  🛏️ Bedrooms:</span> {house.bedrooms}</p>
                   <p><span className="font-semibold">🛁 Baths:</span> {house.bathrooms}</p>
                   <p><span className="font-semibold">📐 Size:</span> {house.size}</p>
                 </div>
