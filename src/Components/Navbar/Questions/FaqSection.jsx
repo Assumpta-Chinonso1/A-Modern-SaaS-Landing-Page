@@ -33,10 +33,14 @@ const FaqSection = () => {
 
   return (
     <section className="bg-white py-16 px-4">
+
+        
       <div className="max-w-4xl mx-auto">
         <h2 className="text-3xl font-bold text-center text-gray-900 mb-8">
           Frequently Asked Questions
         </h2>
+
+
         <div className="space-y-4">
           {faqs.map((faq, index) => (
             <div key={index}>
@@ -47,7 +51,7 @@ const FaqSection = () => {
                 <span>{faq.question}</span>
                 {openIndex === index ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
               </button>
-              
+
               {openIndex === index && (
                 <div className="mt-2 text-gray-600 px-0 pb-4 transition-all duration-300">
                   {faq.answer}
