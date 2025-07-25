@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 import Navbar from './Components/Navbar/Navbar'
 import Hero from './Components/Navbar/Hero/Hero'
 import Houses from './Components/Navbar/OurHouses/Houses'
@@ -25,4 +25,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App*/
