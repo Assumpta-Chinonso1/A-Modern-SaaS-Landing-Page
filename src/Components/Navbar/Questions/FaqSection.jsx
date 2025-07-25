@@ -40,12 +40,14 @@ const FaqSection = () => {
         <div className="space-y-4">
           {faqs.map((faq, index) => (
             <div key={index}>
+
               <button
                 onClick={() => toggleFAQ(index)}
                 className="w-full text-left px-0 py-4 flex items-center justify-between text-gray-800 font-medium focus:outline-none border-b border-gray-200">
                 <span>{faq.question}</span>
                 {openIndex === index ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
               </button>
+              
               {openIndex === index && (
                 <div className="mt-2 text-gray-600 px-0 pb-4 transition-all duration-300">
                   {faq.answer}
