@@ -7,7 +7,7 @@ const Newsletter = () => {
                   <h2 className="text-3xl font-bold">Stay Updated</h2>
                  <p className="mt-2 text-blue-100">
                   Subscribe to receive property alerts, updates, and news straight to your inbox.
-        </p>
+                 </p>
 
         <form className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
           <input
