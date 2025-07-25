@@ -43,7 +43,10 @@ const Home = () => (
     <Hero />
     <Houses />
     <Testimonials />
+    
     <Newsletter />
+    <ContactForm/>
+    <FaqSection/>
   </>
 )
 
