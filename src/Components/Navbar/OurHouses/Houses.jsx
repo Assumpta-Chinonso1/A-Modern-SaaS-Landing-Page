@@ -15,6 +15,7 @@ const Houses = () => {
 
   return (
     <section className="py-16 px-4 bg-gradient-to-br from-gray-50 to-white">
+        
       {/* Heading */}
       <div className="text-center mb-10">
         <h2 className="text-4xl font-extrabold text-gray-800">🏠 Available Properties</h2>
