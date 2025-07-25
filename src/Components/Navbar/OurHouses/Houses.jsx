@@ -14,7 +14,7 @@ const Houses = () => {
       : houseData.filter((house) => house.bedrooms === parseInt(selectedBedrooms));
 
   return (
-    <section className="py-16 px-4 bg-gradient-to-br from-gray-50 to-white">
+    <section id='houses' className="py-16 px-4 bg-gradient-to-br from-gray-50 to-white">
 
       {/* Heading */}
       <div className="text-center mb-10">
@@ -37,7 +37,7 @@ const Houses = () => {
           <option value="5">5 Bedrooms</option>
         </select>
       </div>
-      
+
 
       {/* Houses Grid: only 2 per row */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl mx-auto">
