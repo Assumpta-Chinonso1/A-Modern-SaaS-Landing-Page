@@ -23,7 +23,7 @@ const houseData = [
   },
   {
     id: 3,
-    image: 'src/assets/house3.png',
+    image: 'src/assets/house4.jpeg',
     title: 'Cozy Apartment',
     location: 'Port Harcourt, Rivers',
     price: '$95,000',
@@ -34,7 +34,7 @@ const houseData = [
   },
   {
     id: 4,
-    image: 'src/assets/house4.jpeg',
+    image: 'src/assets/house3.png',
     title: 'Family Bungalow',
     location: 'Enugu, Enugu',
     price: '$120,000',

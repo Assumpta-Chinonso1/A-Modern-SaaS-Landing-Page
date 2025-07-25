@@ -64,7 +64,7 @@ const Houses = () => {
                 </div>
 
                 <p className="text-lg font-bold text-blue-600 mt-4">{house.price}</p>
-                <p className="text-xs text-gray-400 mt-1">Agent: {house.agent}</p>
+                <p className="text-xs text-gray-500 mt-1 py-2">Agent: {house.agent}</p>
               </div>
 
               <button className="mt-6 bg-blue-600 hover:bg-blue-700 text-white py-2 px-6 rounded-full font-medium transition duration-200">
