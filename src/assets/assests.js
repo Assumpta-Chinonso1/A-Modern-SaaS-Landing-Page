@@ -1,0 +1,48 @@
+const houseData = [
+  {
+    id: 1,
+    image: 'src/assets/house1.png',
+    title: 'Luxury Villa',
+    location: 'Lekki, Lagos',
+    price: '$250,000',
+    bedrooms: 5,
+    bathrooms: 4,
+    size: '4,500 sqft',
+    agent: 'Mr. Adewale Johnson',
+  },
+  {
+    id: 2,
+    image: 'src/assets/house2.png',
+    title: 'Modern Duplex',
+    location: 'Abuja, FCT',
+    price: '$180,000',
+    bedrooms: 4,
+    bathrooms: 3,
+    size: '3,200 sqft',
+    agent: 'Mrs. Anita Okon',
+  },
+  {
+    id: 3,
+    image: 'src/assets/house3.png',
+    title: 'Cozy Apartment',
+    location: 'Port Harcourt, Rivers',
+    price: '$95,000',
+    bedrooms: 2,
+    bathrooms: 2,
+    size: '1,400 sqft',
+    agent: 'Mr. Emeka Uzo',
+  },
+  {
+    id: 4,
+    image: 'src/assets/house4.jpeg',
+    title: 'Family Bungalow',
+    location: 'Enugu, Enugu',
+    price: '$120,000',
+    bedrooms: 3,
+    bathrooms: 2,
+    size: '2,100 sqft',
+    agent: 'Mrs. Kemi Balogun',
+  },
+];
+
+export default houseData;
