@@ -42,7 +42,7 @@ const FaqSection = () => {
             <div key={index}>
               <button
                 onClick={() => toggleFAQ(index)}
-                className="w-full text-left px-0 py-4 flex items-center justify-between text-gray-800 font-medium focus:outline-none border-b border-gray-200"   >
+                className="w-full text-left px-0 py-4 flex items-center justify-between text-gray-800 font-medium focus:outline-none border-b border-gray-200">
                 <span>{faq.question}</span>
                 {openIndex === index ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
               </button>
