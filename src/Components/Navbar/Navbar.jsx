@@ -28,6 +28,7 @@ const Navbar = () => {
         <ul className="hidden md:flex gap-6 text-gray-600 font-medium">
           {['home', 'houses', 'contact', 'faqs'].map((item) => (
             <li key={item}>
+
               <ScrollLink
                 to={item}
                 smooth={true}
@@ -36,6 +37,7 @@ const Navbar = () => {
                 className="cursor-pointer hover:text-blue-500 capitalize">
                 {item}
               </ScrollLink>
+              
             </li>
           ))}
         </ul>
