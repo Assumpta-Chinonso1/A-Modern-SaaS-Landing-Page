@@ -45,8 +45,7 @@ const Testimonials = () => {
 
 
           <div
-          
-            key={testimonial.id}
+             key={testimonial.id}
             className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition duration-300">
 
             <p className="text-gray-700 italic">“{testimonial.feedback}”</p>
