@@ -16,8 +16,7 @@ const testimonials = [
     location: 'Lagos, Nigeria',
   },
   {
-    id: 3,
-    
+    id: 3, 
     name:  'Ahmed Musa',
     feedback: "Great user interface and smooth experience. I’ve already recommended this to my friends!",
     location: 'Abuja, Nigeria',
