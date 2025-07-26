@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHouse, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'
@@ -57,7 +56,7 @@ const Navbar = () => {
           }`}>
 
           {['home', 'houses', 'contact', 'faqs'].map((item) => (
-            
+
             <ScrollLink
               key={item}
               to={item}
