@@ -13,7 +13,7 @@ const testimonials = [
     id: 2,
     name: 'Tolu Adebayo',
     feedback:
-      "Highly professional service. I was able to schedule a house visit and close the deal in just a few weeks.",
+       "Highly professional service. I was able to schedule a house visit and close the deal in just a few weeks.",
     location: 'Lagos, Nigeria',
   },
 
