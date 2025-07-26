@@ -25,11 +25,11 @@ const testimonials = [
 ];
 
 const Testimonials = () => {
-  
+
   return (
     <section className="bg-gray-100 py-16">
       <div className="text-center mb-10 px-4">
-        <h2 className="text-3xl font-bold">What Our Clients Say</h2>
+        <h2 className="text-3xl font-bold">What Our Clients Say </h2>
         <p className="text-gray-600 mt-2">Real stories from satisfied homeowners</p>
       </div>
 
