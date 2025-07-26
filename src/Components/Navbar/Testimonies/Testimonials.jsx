@@ -8,7 +8,7 @@ const testimonials = [
       "I found my dream home on this platform! The agents were so helpful and made the process stress-free.",
     location: 'Enugu, Nigeria',
   },
-  
+
   {
     id: 2,
     name: 'Tolu Adebayo',
@@ -23,6 +23,7 @@ const testimonials = [
     feedback: "Great user interface and smooth experience. I’ve already recommended this to my friends!",
     location: 'Abuja, Nigeria',
   },
+  
 ];
 
 const Testimonials = () => {
