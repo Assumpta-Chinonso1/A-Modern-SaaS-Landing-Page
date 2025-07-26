@@ -43,7 +43,7 @@ const Navbar = () => {
 
         {/* Hamburger icon */}
         <button
-          className="md:hidden text-2xl text-gray-700 z-50"
+           className="md:hidden text-2xl text-gray-700 z-50"
           onClick={toggleMenu}
           aria-label="Toggle menu">
           <FontAwesomeIcon icon={menuOpen ? faXmark : faBars} />
