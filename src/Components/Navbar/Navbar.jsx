@@ -67,6 +67,7 @@ const Navbar = () => {
               onClick={closeMenu}>
               {item}
             </ScrollLink>
+            
           ))}
         </div>
       </div>
