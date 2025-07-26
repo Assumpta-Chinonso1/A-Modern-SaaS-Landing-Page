@@ -8,6 +8,7 @@ const testimonials = [
       "I found my dream home on this platform! The agents were so helpful and made the process stress-free.",
     location: 'Enugu, Nigeria',
   },
+  
   {
     id: 2,
     name: 'Tolu Adebayo',
@@ -15,7 +16,7 @@ const testimonials = [
       "Highly professional service. I was able to schedule a house visit and close the deal in just a few weeks.",
     location: 'Lagos, Nigeria',
   },
-  
+
   {
     id: 3, 
     name:  'Ahmed Musa',
