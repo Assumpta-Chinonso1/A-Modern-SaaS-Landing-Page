@@ -25,6 +25,7 @@ const testimonials = [
 ];
 
 const Testimonials = () => {
+  
   return (
     <section className="bg-gray-100 py-16">
       <div className="text-center mb-10 px-4">
