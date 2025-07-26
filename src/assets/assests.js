@@ -22,7 +22,7 @@ const houseData = [
     agent: 'Mrs. Anita Okon',
   },
   {
-    id: 3,
+    id:3,
     image: 'src/assets/house4.jpeg',
     title: 'Cozy Apartment',
     location: 'Port Harcourt, Rivers',
