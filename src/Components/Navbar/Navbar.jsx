@@ -48,6 +48,7 @@ const Navbar = () => {
           aria-label="Toggle menu">
           <FontAwesomeIcon icon={menuOpen ? faXmark : faBars} />
         </button>
+        
 
         {/* Fullscreen Mobile Menu */}
         <div
