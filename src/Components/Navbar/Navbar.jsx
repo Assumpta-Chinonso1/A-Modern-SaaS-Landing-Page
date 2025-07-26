@@ -48,13 +48,13 @@ const Navbar = () => {
           aria-label="Toggle menu">
           <FontAwesomeIcon icon={menuOpen ? faXmark : faBars} />
         </button>
-        
+
 
         {/* Fullscreen Mobile Menu */}
         <div
           className={`fixed top-0 left-0 w-full h-full bg-white flex flex-col items-center justify-center gap-8 text-xl text-gray-700 transition-transform duration-300 ease-in-out ${
             menuOpen ? 'translate-x-0' : '-translate-x-full'
-          }`} >
+          }`}>
 
           {['home', 'houses', 'contact', 'faqs'].map((item) => (
             <ScrollLink
