@@ -57,6 +57,7 @@ const Navbar = () => {
           }`}>
 
           {['home', 'houses', 'contact', 'faqs'].map((item) => (
+            
             <ScrollLink
               key={item}
               to={item}
@@ -69,7 +70,7 @@ const Navbar = () => {
             </ScrollLink>
 
           ))}
-          
+
         </div>
       </div>
     </nav>
