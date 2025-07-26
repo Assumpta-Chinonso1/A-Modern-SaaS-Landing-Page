@@ -31,7 +31,7 @@ const Testimonials = () => {
 
   return (
     <section className="bg-gray-100 py-16">
-      
+
       <div className="text-center mb-10 px-4">
 
         <h2 className="text-3xl font-bold">What Our Clients Say </h2>
@@ -40,7 +40,7 @@ const Testimonials = () => {
 
       </div>
 
-       <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-6">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 px-6">
         {testimonials.map((testimonial) => (
 
 
