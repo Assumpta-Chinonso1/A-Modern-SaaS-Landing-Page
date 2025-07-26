@@ -15,6 +15,7 @@ const testimonials = [
       "Highly professional service. I was able to schedule a house visit and close the deal in just a few weeks.",
     location: 'Lagos, Nigeria',
   },
+  
   {
     id: 3, 
     name:  'Ahmed Musa',
