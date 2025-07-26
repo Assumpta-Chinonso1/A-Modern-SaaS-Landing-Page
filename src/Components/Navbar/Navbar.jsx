@@ -62,7 +62,7 @@ const Navbar = () => {
               duration={500}
               offset={-70}
               className="cursor-pointer hover:text-blue-500 capitalize"
-              onClick={closeMenu}     >
+              onClick={closeMenu}>
               {item}
             </ScrollLink>
           ))}
