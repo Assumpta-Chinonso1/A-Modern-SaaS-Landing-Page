@@ -46,7 +46,7 @@ const FaqSection = () => {
 
         <div className="space-y-4">
           {faqs.map((faq, index) => (
-            
+
             <div key={index}>
 
               <button
@@ -57,6 +57,7 @@ const FaqSection = () => {
               </button>
 
               {openIndex === index && (
+                
                 <div className="mt-2 text-gray-600 px-0 pb-4 transition-all duration-300">
                   {faq.answer}
                 </div>
