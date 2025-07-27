@@ -8,10 +8,11 @@ const Newsletter = () => {
                  <p className="mt-2 text-blue-100">
 
                   Subscribe to receive property alerts, updates, and news straight to your inbox.
-                  
+
                  </p>
 
         <form className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
+          
           <input
             type="email"
             placeholder="Enter your email"
