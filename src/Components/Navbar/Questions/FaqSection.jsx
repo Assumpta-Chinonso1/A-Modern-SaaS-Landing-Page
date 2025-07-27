@@ -19,12 +19,13 @@ const faqs = [
     answer:
       "Yes! We offer free mortgage consultations with our partnered financial experts. Simply indicate your interest in the contact form.",
   },
-  
+
   {
     question: "Are the property listings regularly updated?",
     answer:
       "Absolutely. Our listings are updated daily to ensure you see the most accurate and current information.",
   },
+  
 ];
 
 const FaqSection = () => {
