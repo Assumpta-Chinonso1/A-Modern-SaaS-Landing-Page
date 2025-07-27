@@ -41,7 +41,7 @@ const ContactForm = () => {
 
 
         <form className="space-y-5" onSubmit={handleSubmit}>
-          
+
           <div>
             <label className="block text-gray-700 font-medium mb-1"> Full Name </label>
             <input
@@ -53,6 +53,7 @@ const ContactForm = () => {
               className="w-full border border-gray-300 px-4 py-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-200"
               required
             />
+            
           </div>
 
           <div>
