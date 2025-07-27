@@ -59,9 +59,10 @@ const FaqSection = () => {
               {openIndex === index && (
 
                 <div className="mt-2 text-gray-600 px-0 pb-4 transition-all duration-300">
-                  
+
                   {faq.answer}
                 </div>
+                
               )}
             </div>
           ))}
