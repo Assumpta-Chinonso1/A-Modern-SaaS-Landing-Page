@@ -7,6 +7,7 @@ const faqs = [
     answer:
       "You can schedule a tour by filling out the contact form above or calling our support line. We’ll get back to you promptly.",
   },
+  
   {
     question: "Is there any cost involved in viewing a property?",
     answer:
@@ -62,7 +63,7 @@ const FaqSection = () => {
 
                   {faq.answer}
                 </div>
-                
+
               )}
             </div>
           ))}
