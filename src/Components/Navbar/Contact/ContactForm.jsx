@@ -39,6 +39,7 @@ const ContactForm = () => {
         <h2 className="text-3xl font-bold text-center mb-4 text-blue-400">Contact Us</h2>
         <p className="text-center text-gray-600 mb-6">Have a question or need help? Reach out to us anytime!</p>
 
+
         <form className="space-y-5" onSubmit={handleSubmit}>
           <div>
             <label className="block text-gray-700 font-medium mb-1">Full Name</label>
