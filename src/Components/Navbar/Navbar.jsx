@@ -48,7 +48,7 @@ const Navbar = () => {
            className="md:hidden text-2xl text-gray-700 z-50"
             onClick={toggleMenu}
           aria-label="Toggle menu">
-          <FontAwesomeIcon icon={menuOpen ? faXmark : faBars} />
+           <FontAwesomeIcon icon={menuOpen ? faXmark : faBars} />
         </button>
 
 
