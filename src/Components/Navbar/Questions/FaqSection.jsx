@@ -13,12 +13,13 @@ const faqs = [
     answer:
       "No, property viewings are completely free. We’re happy to help you find the perfect match without any fees.",
   },
-  
+
   {
     question: "Can I get a mortgage consultation through your platform?",
     answer:
       "Yes! We offer free mortgage consultations with our partnered financial experts. Simply indicate your interest in the contact form.",
   },
+  
   {
     question: "Are the property listings regularly updated?",
     answer:
