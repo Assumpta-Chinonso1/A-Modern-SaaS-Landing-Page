@@ -12,12 +12,13 @@ const Newsletter = () => {
                  </p>
 
         <form className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
-          
+
           <input
             type="email"
             placeholder="Enter your email"
             className="w-full sm:w-2/3 px-4 py-2 rounded-md text-white-200 focus:outline-none"
           />
+          
           <button
             type="submit"
             className="bg-white text-blue-500 font-medium px-6 py-2 rounded-md hover:bg-blue-100 transition"
