@@ -26,8 +26,9 @@ const Newsletter = () => {
           </button>
 
         </form>
-        
+
       </div>
+      
     </section>
   );
 };
