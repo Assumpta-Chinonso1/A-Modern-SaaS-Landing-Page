@@ -32,7 +32,7 @@ const FaqSection = () => {
   };
 
   return (
-    <section id="faqs" className="bg-white py-16 px-4">
+     <section id="faqs" className="bg-white py-16 px-4">
 
 
       <div className="max-w-4xl mx-auto">
