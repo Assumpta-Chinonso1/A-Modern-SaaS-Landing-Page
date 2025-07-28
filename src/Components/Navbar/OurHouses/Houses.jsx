@@ -30,7 +30,7 @@ const Houses = () => {
           onChange={handleBedroomFilter}
           className="border border-gray-300 rounded-lg px-4 py-2 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
         >
-         b <option value="All">All</option>
+           <option value="All">All</option>
           <option value="2">2 Bedrooms</option>
           <option value="3">3 Bedrooms</option>
           <option value="4">4 Bedrooms</option>
@@ -41,6 +41,7 @@ const Houses = () => {
 
       {/* Houses Grid: only 2 per row */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl mx-auto">
+        
         {filteredHouses.map((house) => (
           <div
             key={house.id}
