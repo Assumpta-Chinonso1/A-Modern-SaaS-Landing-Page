@@ -37,6 +37,7 @@ const Navbar = () => {
                 offset={-70}
                 className="cursor-pointer hover:text-blue-500 capitalize">
                 {item}
+                
               </ScrollLink>
 
             </li>
