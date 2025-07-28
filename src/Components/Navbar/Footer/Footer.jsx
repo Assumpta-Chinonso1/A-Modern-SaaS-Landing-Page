@@ -14,7 +14,8 @@ const Footer = () => {
         </div>
 
 
-        <div>     
+        <div>  
+             
           <h4 className="text-lg font-semibold mb-2">Quick Links</h4>
 
           <ul className="space-y-2 text-sm text-gray-300">
