@@ -23,9 +23,8 @@ const Footer = () => {
             <li><a href="#" className="hover:text-white">Contact</a></li>
             <li><a href="#" className="hover:text-white">FAQs</a></li>
           </ul>
-          
-        </div>
 
+        </div>
         <div>
           <h4 className="text-lg font-semibold mb-2">Contact Info</h4>
           <p className="text-sm text-gray-300">Email: info@realestatepro.com</p>
