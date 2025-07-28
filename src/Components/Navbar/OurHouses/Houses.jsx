@@ -79,12 +79,13 @@ const Houses = () => {
           </div>
         ))}
       </div>
-      
+
 
       {/* No Results */}
       {filteredHouses.length === 0 && (
         <p className="text-center text-gray-500 mt-12">No houses match your filter.</p>
       )}
+      
     </section>
   );
 };
