@@ -30,14 +30,14 @@ const Navbar = () => {
         {['home', 'houses', 'contact', 'faqs'].map((item) => (
             <li key={item}>
 
-         <ScrollLink
+           <ScrollLink
                 to={item}
                 smooth={true}
                 duration={500}
                 offset={-70}
                 className="cursor-pointer hover:text-blue-500 capitalize">
                 {item}
-                
+
               </ScrollLink>
 
             </li>
