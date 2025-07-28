@@ -41,7 +41,7 @@ const Houses = () => {
 
       {/* Houses Grid: only 2 per row */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl mx-auto">
-        
+
         {filteredHouses.map((house) => (
           <div
             key={house.id}
@@ -64,6 +64,7 @@ const Houses = () => {
                   <p><span className="font-semibold">🛁 Baths:</span> {house.bathrooms}</p>
                   <p><span className="font-semibold">📐 Size:</span> {house.size}</p>
                 </div>
+
 
                 <p className="text-lg font-bold text-blue-600 mt-4">{house.price}</p>
                 <p className="text-xs text-gray-500 mt-1 py-2">Agent: {house.agent}</p>
