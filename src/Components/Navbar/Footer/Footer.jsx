@@ -36,9 +36,9 @@ const Footer = () => {
       </div>
 
       <div className="mt-8 text-center text-sm text-gray-400">
-        &copy; {new Date().getFullYear()} RealEstatePro. All rights reserved.
+        &copy; {new Date().getFullYear()}  RealEstatePro. All rights reserved.
       </div>
-      
+
     </footer>
   );
 };
