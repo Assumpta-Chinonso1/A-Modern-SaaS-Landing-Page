@@ -25,7 +25,7 @@ const Footer = () => {
           </ul>
 
         </div>
-        
+
         <div>
           <h4 className="text-lg font-semibold mb-2">Contact Info</h4>
           <p className="text-sm text-gray-300">Email: info@realestatepro.com</p>
@@ -38,6 +38,7 @@ const Footer = () => {
       <div className="mt-8 text-center text-sm text-gray-400">
         &copy; {new Date().getFullYear()} RealEstatePro. All rights reserved.
       </div>
+      
     </footer>
   );
 };
