@@ -23,6 +23,7 @@ const Footer = () => {
             <li><a href="#" className="hover:text-white">Contact</a></li>
             <li><a href="#" className="hover:text-white">FAQs</a></li>
           </ul>
+          
         </div>
 
         <div>
