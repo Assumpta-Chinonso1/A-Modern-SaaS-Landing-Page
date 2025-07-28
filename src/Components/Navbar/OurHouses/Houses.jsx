@@ -70,9 +70,11 @@ const Houses = () => {
                 <p className="text-xs text-gray-500 mt-1 py-2">Agent: {house.agent}</p>
               </div>
 
+
               <button className="mt-6 bg-blue-600 hover:bg-blue-700 text-white py-2 px-6 rounded-full font-medium transition duration-200">
                 Contact Agent
               </button>
+              
             </div>
           </div>
         ))}
