@@ -82,12 +82,13 @@ const ContactForm = () => {
               required
             ></textarea>
           </div>
-          
+
 
           <button
             type="submit"
             className="w-full bg-blue-400 text-white py-3 rounded-lg font-semibold hover:bg-blue-800 transition duration-300"
           >
+            
             Send Message
           </button>
         </form>
