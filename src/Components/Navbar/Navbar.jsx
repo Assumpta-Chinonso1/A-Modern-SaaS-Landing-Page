@@ -42,8 +42,9 @@ const Navbar = () => {
               </ScrollLink>
 
             </li>
-            
+
           ))}
+          
         </ul>
 
         {/* Hamburger icon */}
