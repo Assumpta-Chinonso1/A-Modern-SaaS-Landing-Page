@@ -5,6 +5,7 @@ const Footer = () => {
   return (
 
     <footer className="bg-gray-800 text-white py-10 px-6">
+      
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8">
         <div>
           <h3 className="text-xl font-bold mb-2">RealEstatePro</h3>
@@ -15,7 +16,7 @@ const Footer = () => {
 
 
         <div>  
-             
+
           <h4 className="text-lg font-semibold mb-2">Quick Links</h4>
 
           <ul className="space-y-2 text-sm text-gray-300">
