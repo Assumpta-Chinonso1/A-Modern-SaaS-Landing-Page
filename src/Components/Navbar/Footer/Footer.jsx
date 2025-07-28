@@ -7,8 +7,9 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-10 px-6">
 
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8">
-        
+
         <div>
+          
           <h3 className="text-xl font-bold mb-2">RealEstatePro</h3>
           <p className="text-sm text-gray-300">
             Your trusted partner in finding the perfect home.
