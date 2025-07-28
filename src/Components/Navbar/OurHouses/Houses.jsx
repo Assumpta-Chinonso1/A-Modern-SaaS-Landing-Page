@@ -30,7 +30,7 @@ const Houses = () => {
           onChange={handleBedroomFilter}
           className="border border-gray-300 rounded-lg px-4 py-2 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
         >
-          <option value="All">All</option>
+         b <option value="All">All</option>
           <option value="2">2 Bedrooms</option>
           <option value="3">3 Bedrooms</option>
           <option value="4">4 Bedrooms</option>
