@@ -48,7 +48,6 @@ const FaqSection = () => {
 
         </h2>
 
-
         <div className="space-y-4">
           {faqs.map((faq, index) => (
 
