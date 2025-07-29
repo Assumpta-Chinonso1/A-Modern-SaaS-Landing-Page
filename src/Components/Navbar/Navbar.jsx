@@ -30,6 +30,7 @@ const Navbar = () => {
         {['home', 'houses', 'contact', 'faqs'].map((item) => (
             <li key={item}>
 
+          
            <ScrollLink
 
                 to={item}
