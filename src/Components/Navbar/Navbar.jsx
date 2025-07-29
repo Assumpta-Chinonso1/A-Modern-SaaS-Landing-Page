@@ -21,7 +21,7 @@ const Navbar = () => {
         <a href="/" className="font-semibold hover:text-blue-600 font-mono flex items-center gap-2">
           <FontAwesomeIcon icon={faHouse} className="text-blue-400 text-3xl" />
                Real Estate
-        </a>
+                  </a>
 
 
         {/* Desktop Menu */}
