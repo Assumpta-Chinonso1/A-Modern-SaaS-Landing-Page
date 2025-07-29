@@ -44,8 +44,8 @@ const Navbar = () => {
             </li>
 
           ))}
-          
-        </ul>
+        
+       </ul>
 
         {/* Hamburger icon */}
         <button
