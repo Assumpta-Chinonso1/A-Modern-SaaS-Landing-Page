@@ -10,7 +10,7 @@ const faqs = [
 
    {
       question: "Is there any cost involved in viewing a property?",
-    answer:
+       answer:
       "No, property viewings are completely free. We’re happy to help you find the perfect match without any fees.",
   },
 
