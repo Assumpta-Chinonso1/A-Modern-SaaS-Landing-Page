@@ -30,6 +30,7 @@ const faqs = [
 ];
 
 const FaqSection = () => {
+  
   const [openIndex, setOpenIndex] = useState(null);
 
   const toggleFAQ = (index) => {
