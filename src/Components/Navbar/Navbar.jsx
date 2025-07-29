@@ -40,8 +40,7 @@ const Navbar = () => {
                 {item}
 
               </ScrollLink>
-
-            </li>
+                </li>
 
           ))}
         
