@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHouse, faBars, faXmark } from '@fortawesome/free-solid-svg-icons'
-import { Link as ScrollLink } from 'react-scroll'
+ import { Link as ScrollLink } from 'react-scroll'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false)
