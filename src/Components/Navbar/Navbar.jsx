@@ -17,6 +17,7 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md fixed w-full z-50 top-0 left-0">
        <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+        
 
         <a href="/" className="font-semibold hover:text-blue-600 font-mono flex items-center gap-2">
           <FontAwesomeIcon icon={faHouse} className="text-blue-400 text-3xl" />
