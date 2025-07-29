@@ -42,7 +42,6 @@ const FaqSection = () => {
      <section id="faqs" className="bg-white py-16 px-4">
 
       <div className="max-w-4xl mx-auto">
-
         <h2 className="text-3xl font-bold text-center text-gray-900 mb-8">
 
            Frequently Asked Questions
