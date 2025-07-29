@@ -10,7 +10,7 @@ const Navbar = () => {
           setMenuOpen(prev => !prev)
   }
 
-  const closeMenu = () => {
+       const closeMenu = () => {
     setMenuOpen(false)
   }
 
