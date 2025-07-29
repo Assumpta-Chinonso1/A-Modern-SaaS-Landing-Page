@@ -11,7 +11,7 @@ const Navbar = () => {
   }
 
        const closeMenu = () => {
-    setMenuOpen(false)
+           setMenuOpen(false)
   }
 
       return (
