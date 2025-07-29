@@ -32,7 +32,6 @@ const Navbar = () => {
 
           
            <ScrollLink
-
                 to={item}
                 smooth={true}
                 duration={500}
