@@ -23,7 +23,7 @@ const faqs = [
 
   {
     question: "Are the property listings regularly updated?",
-    answer:
+      answer:
       "Absolutely. Our listings are updated daily to ensure you see the most accurate and current information.",
   },
   
