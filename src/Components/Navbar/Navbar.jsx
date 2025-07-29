@@ -14,7 +14,7 @@ const Navbar = () => {
     setMenuOpen(false)
   }
 
-  return (
+      return (
           <nav className="bg-white shadow-md fixed w-full z-50 top-0 left-0">
                  <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
 
