@@ -17,7 +17,7 @@ const faqs = [
 
   {
     question: "Can I get a mortgage consultation through your platform?",
-     answer:
+       answer:
       "Yes! We offer free mortgage consultations with our partnered financial experts. Simply indicate your interest in the contact form.",
   },
 
