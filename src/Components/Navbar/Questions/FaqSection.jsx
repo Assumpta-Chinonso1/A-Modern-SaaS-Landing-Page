@@ -4,6 +4,7 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 
 const faqs = [
 
+  
   {
      question: "How do I schedule a property tour?",
       answer:
