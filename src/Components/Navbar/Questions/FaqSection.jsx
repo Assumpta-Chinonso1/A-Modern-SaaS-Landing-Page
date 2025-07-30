@@ -4,8 +4,8 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 const faqs = [
 
   {
-    question: "How do I schedule a property tour?",
-     answer:
+     question: "How do I schedule a property tour?",
+      answer:
       "You can schedule a tour by filling out the contact form above or calling our support line. We’ll get back to you promptly.",
   },
 
