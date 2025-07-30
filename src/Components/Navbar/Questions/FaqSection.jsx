@@ -73,7 +73,7 @@ const FaqSection = () => {
           </div>
          </div>
       </section>
-  );
+   );
 };
 
 export default FaqSection;
