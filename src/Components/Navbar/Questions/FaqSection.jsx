@@ -60,7 +60,7 @@ const FaqSection = () => {
                 {openIndex === index ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
               </button>
 
-              {openIndex === index && (
+                {openIndex === index && (
 
                 <div className="mt-2 text-gray-600 px-0 pb-4 transition-all duration-300">
 
