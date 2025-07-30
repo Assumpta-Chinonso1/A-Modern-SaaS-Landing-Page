@@ -10,6 +10,7 @@ const Hero = () => {
                 <h2 className="text-2xl sm:text-4xl md:text-5xl font-light mb-4 font-serif">Your Best <br />Real Estate Agent</h2>
                 <p className="md-6">Comfort, peaceful, Shortlet, Staycation, etc all in best Agent</p>
                    <br />
+                   
               <button className="cursor-pointer text-black bg-blue-400 px-6 py-4 rounded-full font-semibold hover:bg-blue-500">
             Build your Dream Home
             </button>
