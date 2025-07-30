@@ -38,6 +38,7 @@ const FaqSection = () => {
 
   };
 
+  
   return (
      <section id="faqs" className="bg-white py-16 px-4">
 
